@@ -48,6 +48,18 @@
       "year": "2021",
       "photo": "https://picsum.photos/400/470",
       "id": 9
+    },
+    {
+      "artist": "Allan",
+      "year": "1991",
+      "photo": "https://picsum.photos/400/372",
+      "id": 10
+    },
+    {
+      "artist": "Allan",
+      "year": "1991",
+      "photo": "https://picsum.photos/400/381",
+      "id": 11
     }
   ]
 }
